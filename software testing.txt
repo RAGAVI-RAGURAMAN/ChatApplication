@@ -1,0 +1,27 @@
+software testing--> verifying expectation of the client
+
+we have two types of software
+	installed software
+	web application software
+
+how to test installed software?
+
+	--> installation testing
+	-->upgrade testing
+	-->uninstall testing
+how to test trial version software
+
+	whether i get warning message before trial ends
+		change system date manually and check whether 
+			it shows warning message
+Web application testing
+	usability testing -->ease of use
+	Navigation testing
+	Cookies Testing
+	Validation Testing
+	Compatibility Testing
+	LOcalization Testing
+	Cosmetic Testing
+	Session Testing
+Testing principles
+	
